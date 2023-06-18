@@ -12,4 +12,4 @@ npm clone -> npm install -> npm start
 
 ## 실행영상
 
-https://github.com/hjs926/wanted-pre-onboarding-frontend/assets/48309309/4c6cd095-f45f-45af-9de4-52a1648e7949
+https://github.com/hjs926/wanted-pre-onboarding-frontend/assets/48309309/d3465e7d-c628-4b0a-a0a7-22d55003f0ab
