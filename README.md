@@ -8,7 +8,7 @@ npm clone -> npm install -> npm start
 
 ## 배포링크
 
-[배포 링크](https://https://wanted-pre-onboarding-frontend-sand-xi.vercel.app/)
+[배포 링크](https://wanted-pre-onboarding-frontend-sand-xi.vercel.app/)
 
 ## 실행영상
 
